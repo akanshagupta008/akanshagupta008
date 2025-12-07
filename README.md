@@ -6,10 +6,6 @@
 
 👩‍💻 I’m a 2nd-year B.Tech student and a passionate software engineer.
 
-💡 I’ve learned the MERN stack.
-
-🚀 I’m currently building more projects to strengthen my skills.
-
 📩 You can reach me at guptaakansha088@gmail.com.
 
 
