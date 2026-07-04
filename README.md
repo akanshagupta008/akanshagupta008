@@ -4,7 +4,7 @@
 
 
 
-👩‍💻Hi! I’m a 2nd year B.Tech Student at GECGN with a  passion for web development.
+👩‍💻Hi! I’m a B.Tech Student at GECGN with a  passion for web development.
 
 I have recently learned the MERN Stack (MongoDB, Express, React, Node.js) and am now building projects to strengthen my skills and gain practical experience. Alongside, I am currently learning Data Structures & Algorithms in Java to improve my coding and problem-solving abilities.
 
